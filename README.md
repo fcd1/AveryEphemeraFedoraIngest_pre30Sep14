@@ -1,7 +1,7 @@
 AveryEphemeraFedoraIngest
 ==========================
 
-Contains the needed inputs for the ingest into Fedora.
+Contains some of the needed inputs for the ingest into Fedora.
 
 MODS files validate under MacOS 10.9.4 using the following (bash):
 
